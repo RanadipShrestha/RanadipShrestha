@@ -1,19 +1,32 @@
 <!-- Modern GitHub Profile README -->
 
 <h1 align="center">Hi, I'm Ranadip Shrestha</h1>
-<h3 align="center"> Full Stack Developer | Web Enthusiast | Tech Explorer</h3>
+<h3 align="center"> Full Stack Developer </h3>
 
 
 
 ---
 
-### 👨‍💻 About Me
-- Currently working on **Full Stack Web Projects**
-- Exploring **Django + React + Real-time Apps**
-- Interested in **APIs, Databases, and Scalable Systems**
-- Goal: To become a **Skilled Full Stack Engineer**
-- Fun fact: I break things to learn how they work 😅
+```py
+class Developer:
+    def __init__(self):
+        self.name = "Ranadip Shrestha"
+        self.role = "Full Stack Developer"
+        self.skills = ["Python", "JavaScript", "Django", "React"]
+        self.status = "Still debugging life..."
 
+    def introduce(self):
+        print(f"Hi, I'm {self.name}, a {self.role}!")
+        console.log("Yes... I write Python in the morning and break JavaScript at night")
+
+def coffee_needed():
+    return True
+
+if coffee_needed():
+    console.log("Without coffee => SyntaxError: Brain not defined")
+    print("With coffee => Code magically works ☕✨")
+
+```
 ---
 
 ### 🛠 Tech Stack  
@@ -32,6 +45,3 @@
 
 ---
 
-
-
-⭐️ Crafted with passion by [RanadipShrestha](https://github.com/RanadipShrestha)
